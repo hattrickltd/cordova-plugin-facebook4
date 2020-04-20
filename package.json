@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-facebook4",
+  "name": "@hattrickltd/cordova-plugin-facebook4",
   "version": "6.4.0",
   "description": "Cordova Facebook SDK 4 Plugin",
   "cordova": {
